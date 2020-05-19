@@ -1,6 +1,6 @@
 # AD00001 デジタルスピードメーター(青)  
 
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/aca30759e3116cac0215f597f431818a.png)  
+[![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/aca30759e3116cac0215f597f431818a.png)](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/)  
 
 自動車の車速センサパルスを読み取り、デジタル表示するメータを自作できる組立キットです。  
 クールなブルーカラーでスピード表示を行います。  
