@@ -5,47 +5,13 @@
 自動車の車速センサパルスを読み取り、デジタル表示するメータを自作できる組立キットです。  
 クールなブルーカラーでスピード表示を行います。  
 
-## 青色７セグメントLEDにより高い視認性を確保  
+## [製品の詳細はこちら](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/)  
 
-速度の表示は超高輝度青色７セグメントLEDを用いており、高い視認性とデザイン性を確保しています。  
-さらに表示部が分離している為、ダッシュボード上など車への取付位置を柔軟に変更する事ができます。  
+## [組み立て説明書はこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/blob/master/Manual/Manual_DSMblue.pdf)  
 
-## 表示と制御部が分離、ヘッドアップディスプレイ方式にも対応  
+## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Firmware/spd_meter.zip)  
 
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/4e46ef73b017b06c979f146335ae3d3f.png "社長の車、ランサーエボリューションに設置！")  
-
-ダッシュボード上に設置することが可能！  
-
-## 最高速ホールド機能付き  
-
-最高速が出たときに表示部LEDが点灯しドライバに最高速を知らせます。  
-また、スイッチ操作でホールドされた最高速を確認する事が出来ます。  
-
-## 設定変更による柔軟なパルス対応により多彩な車種に対応可能  
-
-通常、自動車用速度センサには、車種により発生パルス数に違いがありますが、本製品では設定ピンの変更により、 
-JIS-D5601で規定される全ての発生パルス数に対応可能となり,現在流通しているほとんど全ての車種で使用可能となります。  
-
-## LEDバーグラフ化キットでさらにアップグレード可能  
-
-![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/34ad19d28c2dde19c3b90756360a654f.png)  
-
-別途アップグレードキットであるLEDバーグラフ化キットを追加することで  
-「エンジン回転信号」「車速信号」等のパルス信号から入力を取得することで  
-スピードメータとしてもタコメータとしても使用出来ます。  
-
-## 3Dプリンタ対応モデル　オリジナルケースデータを公開  
-
-今、話題の３Dプリンター、これまでは高価な業務用プリンタが主役でしたが最近になり、  
-お手頃価格のプリンタも登場し注目を集めつつある分野の一つです。  
-この今話題の３Dプリンタを使用して電子工作キットのためのオリジナルケースを作成してみませんか？  
-
-## 写真による図解入りで詳細な組立マニュアルが付属
-
-電子工作入門者の方でも簡単に組立が可能な図解入りの詳細マニュアルが付属、  
-ハンダ付け初心者にも迷わず安心して組み立てを楽しむことができます。  
-
-[![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/03/WP-PDF-Preview02-DSM_R.png "カラー写真付き組立てマニュアルで迷わず安心")](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/blob/master/Manual/Manual_DSMblue.pdf)  
+## [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Firmware_source/ver011.zip)  
 
 ## 製品仕様
 
