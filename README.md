@@ -1,4 +1,4 @@
-# AD00001_デジタルスピードメーター(青)  
+# AD00001 デジタルスピードメーター(青)  
 
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/aca30759e3116cac0215f597f431818a.png)  
 
