@@ -12,7 +12,7 @@
 
 ## 表示と制御部が分離、ヘッドアップディスプレイ方式にも対応  
 
-![社長の車、ランサーエボリューションに設置！](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/4e46ef73b017b06c979f146335ae3d3f.png)  
+![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/4e46ef73b017b06c979f146335ae3d3f.png "社長の車、ランサーエボリューションに設置！")  
 
 ダッシュボード上に設置することが可能！  
 
@@ -45,7 +45,7 @@ JIS-D5601で規定される全ての発生パルス数に対応可能となり,�
 電子工作入門者の方でも簡単に組立が可能な図解入りの詳細マニュアルが付属、  
 ハンダ付け初心者にも迷わず安心して組み立てを楽しむことができます。  
 
-[![カラー写真付き組立てマニュアルで迷わず安心](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Manual/Manual_DSMblue.pdf)　　
+[![](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Manual/Manual_DSMblue.pdf "カラー写真付き組立てマニュアルで迷わず安心")　　
 
 ## 製品仕様
 
