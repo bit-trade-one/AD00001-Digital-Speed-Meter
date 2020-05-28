@@ -15,16 +15,12 @@
 
 ## 作例
 
-[BTO公式]()  
-[Twitter作例1]()  
-[Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
+[プログラムソース公開のデジタルスピードメータ、タコメータ、燃費計、車速パルス変換機(パルス分周機、パルス逓倍機)の自作　（disklessfun様）](https://wikiwiki.jp/disklessfun/digital-speed-meter)  
+[デジタルスピードメーター　＋　デジタルスピードメータ LEDバーグラフ化キット (じっちゃんのページ様）](https://minkara.carview.co.jp/userid/225201/car/1747782/7517193/parts.aspx)  
+
 
 ## 掲載情報
 
-[ラズパイマガジンXX年Y月号]()  
-[Pc Watch]()
 
 
 ## 製品仕様
