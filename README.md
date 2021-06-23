@@ -1,4 +1,4 @@
-# AD00001 デジタルスピードメーター(青)  
+# AD00001 デジタルスピードメーター(青/赤)  
 
 [![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2014/04/aca30759e3116cac0215f597f431818a.png)](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/)  
 
@@ -13,6 +13,14 @@
 ## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Firmware/spd_meter.zip)  
 
 ## [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Firmware_source/ver011.zip)
+
+下記は有志の方が作成されたファームウェアです。自己責任での使用をお願いいたします。  
+(拡張ファームウェア)  
+・フィルタを強化したファームウェア[ https://bit-trade-one.co.jp/project/car/spd_mtr/spd_meter_filt.hex ]  
+・タコメータ化ファームウェア(HEX)　[ https://bit-trade-one.co.jp/project/car/spd_mtr/digi_tacho.hex ]  
+・タコメータ化ファームウェア(ソースコード)　[ https://bit-trade-one.co.jp/project/car/spd_mtr/ver012_tacho_a.zip ]  
+※エンジン回転数を３桁で表示します。（１の位は表示しない）  
+disklessfun様よりご提供頂きました。(ありがとうございます)  
 
 ## 作例
 
