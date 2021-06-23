@@ -6,6 +6,8 @@
 クールなブルーカラーでスピード表示を行います。  
 ※24V車には対応しておりません。
 
+## [LEDバーグラフ化キットの詳細はこちら](https://github.com/bit-trade-one/AD00016_Digital_Speed_meter_barGraphkit)  
+
 ## [製品の詳細はこちら](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/)  
 
 ## [組み立て説明書はこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/blob/master/Manual/Manual_DSMblue.pdf)  
