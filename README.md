@@ -6,18 +6,22 @@
 クールなブルーカラーでスピード表示を行います。  
 ※24V車には対応しておりません。
 
-## [LEDバーグラフ化キットの詳細はこちら](https://github.com/bit-trade-one/AD00016_Digital_Speed_meter_barGraphkit)  
+### [LEDバーグラフ化キットの詳細](https://github.com/bit-trade-one/AD00016_Digital_Speed_meter_barGraphkit)  
 
-## [製品の詳細はこちら](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/)  
+## [製品HP](https://bit-trade-one.co.jp/product/assemblydisk/ad00001/)  
 
-## [組み立て説明書はこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/blob/master/Manual/Manual_DSMblue.pdf)  
+### [組み立て説明書](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/blob/master/Manual/Manual_DSMblue.pdf)  
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Firmware/spd_meter.zip)  
+### [ファームウェア](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Firmware/spd_meter.zip)  
 
-## [ファームウェアソースはこちら](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Firmware_source/ver011.zip)
+#### [ファームウェアソース](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter-Blue/raw/master/Firmware_source/ver011.zip)
 
+### [回路図](https://github.com/bit-trade-one/AD00001-Digital-Speed-Meter/blob/master/Schematics/spd_mtr_v1_schematics.pdf)  
+
+
+## 拡張ファームウェア
 下記は有志の方が作成されたファームウェアです。自己責任での使用をお願いいたします。  
-(拡張ファームウェア)  
+
 ・フィルタを強化したファームウェア[ https://bit-trade-one.co.jp/project/car/spd_mtr/spd_meter_filt.hex ]  
 ・タコメータ化ファームウェア(HEX)　[ https://bit-trade-one.co.jp/project/car/spd_mtr/digi_tacho.hex ]  
 ・タコメータ化ファームウェア(ソースコード)　[ https://bit-trade-one.co.jp/project/car/spd_mtr/ver012_tacho_a.zip ]  
